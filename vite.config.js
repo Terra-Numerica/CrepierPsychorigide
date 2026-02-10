@@ -1,8 +1,6 @@
 import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
 
-// https://vitejs.dev/config/
+// Remplace '/ton-sous-dossier/' par le chemin réel si besoin
 export default defineConfig({
-  base: "/crepe-maker/",
-  plugins: [vue()],
+  base: '/crepe-maker/',
 })
