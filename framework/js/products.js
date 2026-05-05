@@ -21,7 +21,7 @@ export class Products {
             { name: "Jeu de la contamination/vie en ligne", url: "https://scratch.mit.edu/projects/517390361/fullscreen/" },
             { name: "Bloque moi si tu peux", url: "https://projet.liris.cnrs.fr/~mam/valise/#nim" },
             { name: "Dessin sans lever le crayon", url: "https://projet.liris.cnrs.fr/~mam/valise/#dessin" },
-            { name: "Crêpier psychorigide en ligne", url: "https://terra-numerica.github.io/crepe-maker/" },
+            { name: "Crêpier psychorigide en ligne", url: "https://terra-numerica.github.io/CrepierPsychorigide/" },
         ];
         
         /**
