@@ -403,9 +403,9 @@ class Framework {
             YoffSet : -10,
             widthSpace : 250,
             heightSpace : 250,
-            floor : "./framework/textures/wood_floor.jpg",
-            wall : "./framework/textures/wall.jpg",
-            ceiling : "./framework/textures/roof.jpg"
+            floor : "./textures/wood_floor.jpg",
+            wall : "./textures/wall.jpg",
+            ceiling : "./textures/roof.jpg"
         }
 
         if(width){defaultParams.width = width;}
@@ -445,9 +445,9 @@ class Framework {
             width : 250,
             height : 250,
             YoffSet : -10,
-            floor : "./framework/textures/wood_floor.jpg",
-            wall : "./framework/textures/wall.jpg",
-            ceiling : "./framework/textures/roof.jpg"
+            floor : "./textures/wood_floor.jpg",
+            wall : "./textures/wall.jpg",
+            ceiling : "./textures/roof.jpg"
         }
 
         if(width){defaultParams.width = width;}
